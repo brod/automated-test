@@ -1,0 +1,27 @@
+{
+  "name": "automated-test",
+  "version": "1.0.0",
+  "description": "Exercise automated test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brod/automated-test.git"
+  },
+  "author": "Jeremy Ruckenbrod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brod/automated-test/issues"
+  },
+  "homepage": "https://github.com/brod/automated-test#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jasmine-console-reporter": "^3.1.0",
+    "protractor": "^5.4.3",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "webdriver-manager": "^12.1.7"
+  }
+}

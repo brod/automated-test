@@ -1,0 +1,17 @@
+{
+    "address": {
+        "address1" : "11 2nd St.",
+        "address2" : "Unit 201",
+        "city" : "Austin",
+        "state" : "TX",
+        "zipcode" : "78623"},
+    "contact": {
+        "mobilenumber" : "512-333-3212",
+        "email" : "testemail78623@mailinator.com"
+    },
+    "dob": {
+        "month" : "05",
+        "day" : "4",
+        "year" : "1983"
+    }
+}
